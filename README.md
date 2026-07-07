@@ -154,3 +154,111 @@ Through this project, I learned how to:
 **Abdul Hadi**
 
 LogicStack Data Analytics Internship – Week 1
+
+Week 2 – Advanced Excel Analysis & Power BI Dashboard
+Project Overview
+
+This project was completed as part of the LogicStack Data Analytics Internship – Week 2. The objective was to perform advanced retail sales analysis using Google Sheets (Excel), verify calculations with Python, and build an interactive Power BI dashboard to present key business insights visually.
+
+Project Objective
+
+The objective of this project was to:
+
+Perform advanced sales analysis using Pivot Tables.
+Calculate important Key Performance Indicators (KPIs).
+Verify KPI calculations using Python and Pandas.
+Create meaningful business insights from the dataset.
+Build an interactive Power BI dashboard for data visualization.
+Tools & Technologies Used
+Google Sheets (Excel)
+Python 3
+Jupyter Notebook
+Pandas
+Microsoft Power BI
+GitHub
+Ubuntu Linux
+Dataset Information
+
+The same retail sales dataset from Week 1 was used for this analysis.
+
+The dataset contains 1,000 retail transactions with the following columns:
+
+Transaction ID
+Date
+Customer ID
+Gender
+Age
+Product Category
+Quantity
+Price per Unit
+Total Amount
+Tasks Completed
+Part 1 – Pivot Table Analysis
+
+Created Pivot Tables to analyze:
+
+Total Sales by Product Category
+Total Sales by Gender
+Total Quantity Sold by Product Category
+Average Customer Age by Product Category
+Part 2 – KPI Dashboard
+
+Calculated the following business KPIs:
+
+Total Sales
+Total Transactions
+Average Sales
+Total Quantity Sold
+Highest Transaction Value
+Lowest Transaction Value
+
+All KPI values were verified using Python (Pandas).
+
+Part 3 – Business Insights
+
+Analyzed the dataset and documented key findings based on Pivot Tables and KPI calculations.
+
+Part 4 – Power BI Dashboard
+
+Designed an interactive dashboard containing:
+
+KPI Cards
+Total Sales
+Total Transactions
+Total Quantity Sold
+Average Sales
+Charts
+Bar Chart – Sales by Product Category
+Pie Chart – Sales by Gender
+Column Chart – Quantity Sold by Product Category
+Line Chart – Sales Trend by Date
+Bar Chart – Total Sales by Age Group (Optional Analysis)
+Key Insights
+Electronics generated the highest total sales among all product categories.
+Clothing products recorded the highest quantity sold.
+Female customers contributed more to the overall sales than male customers.
+A total of 2,514 products were sold across 1,000 retail transactions.
+The average customer age was approximately 41 years, with customers ranging from 18 to 64 years old.
+Repository Contents
+Week1_Retail_Sales_Analysis.xlsx – Week 1 Google Sheets/Excel workbook
+Week2_Retail_Sales_Analysis.xlsx – Week 2 Google Sheets/Excel workbook
+retail_sales_dataset.csv – Original dataset
+Week1_Retail_Sales_Analysis.ipynb – Python notebook for Week 1
+Week2_Retail_Sales_Analysis.ipynb – Python notebook for Week 2 KPI verification
+screenshots/ – Excel charts and Power BI dashboard screenshots
+README.md – Complete project documentation
+Learning Outcomes
+
+Through this project, I learned how to:
+
+Create and analyze Pivot Tables in Google Sheets.
+Calculate and interpret business KPIs.
+Verify spreadsheet calculations using Python and Pandas.
+Build an interactive dashboard using Microsoft Power BI.
+Present business insights through data visualization.
+Organize and document projects professionally using GitHub.
+Author
+
+Abdul Hadi
+
+LogicStack Data Analytics Internship – Week 2
