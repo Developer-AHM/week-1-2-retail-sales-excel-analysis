@@ -1,1 +1,1 @@
-This folder contains screenshots for the Week 1 Retail Sales Excel Analysis project.
+This folder contains screenshots for the Week 1 and Week 2 of Retail Sales Excel Analysis project.
